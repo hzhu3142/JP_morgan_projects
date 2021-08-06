@@ -10,4 +10,4 @@ JPMorgan Chase & Co. Software Engineering Virtual Experience is divided into thr
 
 ### Certificate of Completion
 
-![Forage JPMorgan Chase](certificate)
+![Forage JPMorgan Chase](certificate.png)
